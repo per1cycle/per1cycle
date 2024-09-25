@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/per1cycle/count.svg)
+![](https://hit.yhype.me/github/profile?user_id=173214778)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on writing [MarsCRT](https://github.com/per1cycle/marscrt).
